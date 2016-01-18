@@ -1,0 +1,22 @@
+{
+  "name": "webqq",
+  "version": "1.0.0",
+  "description": "webqq",
+  "main": "index.js",
+  "scripts": {
+    "test": "x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "x"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "ralcen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "request": "^2.67.0"
+  }
+}
